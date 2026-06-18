@@ -1,9 +1,11 @@
 #  E-Commerce Delivery Analytics
 
-## 📌 Overview
-Interactive analysis of 100K orders across 
-Blinkit, JioMart and Swiggy Instamart using 
-Python and Power BI.
+## Business Problem
+
+E-commerce companies generate thousands of orders every day, making it difficult to track revenue, delivery performance, customer satisfaction, and refund trends manually. Without a centralized analytics dashboard, identifying business issues and making data-driven decisions becomes challenging.
+
+## Goal
+The goal is to analyze revenue, delivery time and refund behavior across multiple e-commerce platforms to identify performance trends.
 
 ## Objective
 To analyze delivery performance, revenue trends,
