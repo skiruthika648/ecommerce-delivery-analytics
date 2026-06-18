@@ -44,6 +44,9 @@ ecommerce-delivery-analytics/
 ## 📈 Dashboard Preview
 <img width="1470" height="749" alt="ecommerce" src="https://github.com/user-attachments/assets/f91f544d-0120-4e3b-8306-a7f9eaa126de" />
 
+## Conclusion
+The dashboard helps businesses monitor sales and delivery performance, enabling data-driven decisions to improve customer satisfaction and revenue.
+
 
 ##  Author
 Kiruthika S
